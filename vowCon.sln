@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowCon", "vowCon\vowCon.csproj", "{A7EAEF3C-B5FF-44FC-8EAA-52DB1A74905F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EAEF3C-B5FF-44FC-8EAA-52DB1A74905F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EAEF3C-B5FF-44FC-8EAA-52DB1A74905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EAEF3C-B5FF-44FC-8EAA-52DB1A74905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EAEF3C-B5FF-44FC-8EAA-52DB1A74905F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2BE803F-0ACC-4004-BFEF-3416E1C29F2D}
+	EndGlobalSection
+EndGlobal

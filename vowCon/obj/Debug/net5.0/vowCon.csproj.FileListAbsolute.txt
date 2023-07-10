@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.exe
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.deps.json
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.runtimeconfig.json
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.runtimeconfig.dev.json
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.dll
+C:\Users\user\Desktop\vowCon\vowCon\bin\Debug\net5.0\vowCon.pdb
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.AssemblyInfo.cs
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.dll
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\refint\vowCon.dll
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.pdb
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\vowCon.genruntimeconfig.cache
+C:\Users\user\Desktop\vowCon\vowCon\obj\Debug\net5.0\ref\vowCon.dll
